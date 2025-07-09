@@ -42,6 +42,7 @@ _____________________________________
 # Features
 
 ## New Title Screen
+![](https://github.com/levyzdev/NexusEngine/blob/main/docs/img/nexus/titlenexus.png?raw=true)
 * **Optimizations** and **fixes** applied.
 * More **style** with less **appearance**
 
@@ -52,7 +53,7 @@ _____________________________________
 * With **corrections** and improvements. 
 
 ## Main Menu Revamped
-![Screenshot_3](https://user-images.githubusercontent.com/44785097/144629914-1fe55999-2f18-4cc1-bc70-afe616d74ae5.png)
+![](https://github.com/levyzdev/NexusEngine/blob/main/docs/img/nexus/menu.png?raw=true)
 * **Minor changes** to button orders and new Tween
 
 ## PlayState Revamped
