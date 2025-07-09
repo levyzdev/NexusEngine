@@ -1,3 +1,4 @@
+![](https://github.com/levyzdev/NexusEngine/blob/main/art/nexus_engine.png?raw=true)
 # FNF - Nexus Engine
 An engine focused on making it easier for modders to make their **mods**.
 
@@ -47,9 +48,12 @@ _____________________________________
 * More **style** with less **appearance**
 
 ## Revamped RPC
+![](https://github.com/levyzdev/NexusEngine/blob/main/art/rpc.png?raw=true)
 * Most complete Discord **RPC** for your friends to see more of your **gameplay** (lol)
   
 ## New Options Settings Menu
+![](https://github.com/levyzdev/NexusEngine/blob/main/docs/img/nexus/customMenu.png?raw=true)
+
 * With **corrections** and improvements. 
 
 ## Main Menu Revamped
