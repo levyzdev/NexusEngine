@@ -53,18 +53,12 @@ _____________________________________
   
 ## New Options Settings Menu
 ![](https://github.com/levyzdev/NexusEngine/blob/main/docs/img/nexus/customMenu.png?raw=true)
-
 * With **corrections** and improvements. 
 
 ## Main Menu Revamped
 ![](https://github.com/levyzdev/NexusEngine/blob/main/docs/img/nexus/menu.png?raw=true)
 * **Minor changes** to button orders and new Tween
 
-## PlayState Revamped
-![Screenshot_1](https://user-images.githubusercontent.com/44785097/144632635-f263fb22-b879-4d6b-96d6-865e9562b907.png)
-* Now with smoother camera and visual effects on strums
-
-  
 ## Other features:
 * ClientPrefs **reset** function.
 * **Verse Events** to use in your **mods**.
